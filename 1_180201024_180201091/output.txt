@@ -1,0 +1,143 @@
+0 ,0 ,L 
+0, 0, o
+0, 0, r
+0, 0, e
+0, 0, m
+0, 0,  
+0, 0, i
+0, 0, p
+0, 0, s
+0, 0, u
+6, 1,  
+0, 0, d
+12, 1, l
+14, 1, r
+12, 1, s
+13, 1, t
+16, 1, a
+19, 1, e
+5, 1, ,
+22, 1, c
+28, 1, n
+23, 1, e
+5, 1, t
+32, 1, t
+28, 1, r
+34, 1, a
+29, 1, i
+36, 1, i
+37, 1, i
+19, 1, i
+19, 1, g
+46, 1, e
+39, 1, i
+35, 1, .
+52, 1, D
+56, 1, l
+58, 1, c
+43, 1, u
+57, 1,  
+0, 0, q
+59, 1, a
+62, 1,  
+68, 1, o
+60, 1, l
+70, 1, t
+72, 1, a
+62, 2, p
+75, 1, a
+80, 1, u
+61, 2, f
+81, 1, g
+70, 1,  
+64, 1, o
+88, 1, t
+96, 1, u
+96, 1, ,
+97, 1, e
+0, 0, x
+102, 1, r
+79, 1, i
+89, 1, a
+91, 1, i
+112, 1, n
+100, 3, r
+116, 1, p
+118, 1, l
+109, 1, e
+95, 1, d
+118, 1, s
+124, 1, a
+124, 1, e
+133, 1, i
+64, 2,  
+128, 1, e
+133, 1, s
+128, 1, i
+107, 1, i
+113, 1, t
+129, 1, s
+117, 2, m
+128, 1, e
+123, 1, i
+115, 1, !
+Arama tamponu:
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus quas mollitia ipsa ut fuga nostrum, exercitationem repellendus ap
+Arama tamponundaki harfler: 
+ Lorem ipsudlta,cng.Dqfx!
+harflerin tekrar sayilari:
+ L=1
+ o=7
+ r=6
+ e=13
+ m=6
+  =16
+ i=12
+ p=4
+ s=8
+ u=8
+ d=3
+ l=7
+ t=11
+ a=7
+ ,=2
+ c=5
+ n=5
+ g=2
+ .=1
+ D=1
+ q=1
+ f=1
+ x=1
+ !=0
+
+------------
+Huffman kodlamalari:
+r: 0000
+m: 0001
+e: 001
+o: 0100
+l: 0101
+a: 0110
+D: 0111000
+q: 0111001
+f: 0111010
+L: 0111011
+p: 01111
+u: 1000
+s: 1001
+ : 101
+g: 110000
+x: 1100010
+!: 11000110
+.: 11000111
+,: 110010
+d: 110011
+c: 11010
+n: 11011
+t: 1110
+i: 1111
+Toplam Metin Boyutu=112 byte
+Deflate Sonrasi Toplam Boyutun Bit Cinsinden Ifadesi(8 e bolunmemis hali)=530 bit
+Deflate Sonrasi Boyut= 66 byte
+lz77 Sonrasi Boyut=83 byte 
